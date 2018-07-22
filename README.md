@@ -1,6 +1,6 @@
 # PyTorch笔记
 
-整理PyTorch相关问题。
+整理PyTorch相关问题，部分实现了对应的tensorflow版本。
 
 1. [BLSTM处理变长序列](https://github.com/liu-nlper/pytorch-notes/blob/master/BLSTM处理变长序列/BLSTM处理变长序列.ipynb)
 
